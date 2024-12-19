@@ -85,7 +85,5 @@ int main()
     pop();
     push();
     push();
-    push();
-
     show();
 }
